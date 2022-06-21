@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Day5MVCAssign\obj\Debug\Day5MVCAssign.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Day5MVCAssign\obj\Debug\Day5MVCAssign.csproj.CoreCompileInputs.cache
