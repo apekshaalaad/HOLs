@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "AddUser";
+}
+@model Day3MVCAssign.Models.User
+<h2>AddUser</h2>
+@using (Html.BeginForm("SaveUser", "Home"))
+{
+    <p>
+        @Html.TextBoxFor(u => u.UserName)
+
+
+
+    </p>
+
+
+
+    <p>
+        @Html.PasswordFor(u => u.Password)
+
+
+
+    </p>
+
+
+
+    <input type="submit" value="Add User" />
+}
+
